@@ -2,7 +2,7 @@
 
 ## What is this?
 
-This is a wordpress plugin that creates a price-list block. This is not a finite product, but a preview people can leave feedback on.
+This is a wordpress plugin that creates a price-list block. This is a working but yet unfinished product; a preview people can leave feedback on.
 
 
 ## How to download the plugin
